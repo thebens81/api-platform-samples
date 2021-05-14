@@ -1,4 +1,4 @@
-# Apigee Edge sample API proxies
+# Apigee Edge sample API proxies..
 
 * [Audience](#who)
 * [Intro](#intro)
